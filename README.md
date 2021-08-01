@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shanib-ibrahim
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning MERN Stack
